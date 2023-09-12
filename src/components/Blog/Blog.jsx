@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import { BiBookmark } from "react-icons/bi";
 const Blog = ({ blog, handleBookmark, handleReadingTime }) => {
   const {
+    id,
     title,
     cover_img,
     author_img,
@@ -39,7 +40,7 @@ const Blog = ({ blog, handleBookmark, handleReadingTime }) => {
         ))}
       </div>
       <button
-        onClick={() => handleReadingTime(reading_time)}
+        onClick={() => handleReadingTime(reading_time, id)}
         className="text-[#6047EC] mb-10 underline"
       >
         Mark as read

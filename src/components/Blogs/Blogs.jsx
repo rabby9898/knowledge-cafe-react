@@ -11,7 +11,6 @@ const Blogs = ({ handleBookmark, handleReadingTime }) => {
   }, []);
   return (
     <div className="md:w-2/3 ">
-      <h1>Data: {blogs.length}</h1>
       {blogs.map((blog) => (
         <Blog
           key={blog.id}
