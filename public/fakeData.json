@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Lorem Ipsum Dolor Sit Amet",
+    "title": "10 Essential Web Development Tools Every Developer Should Know",
     "author_img": "https://i.ibb.co/0Yk5j5t/boy1.png",
     "author_name": "John Doe",
     "posted_date": "2023-09-12",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "title": "Consectetur Adipiscing Elit",
+    "title": "Mastering Responsive Web Design: Tips and Best Practices",
     "author_img": "https://i.ibb.co/cLxB8Yp/boy2.jpg",
     "author_name": "Jane Smith",
     "posted_date": "2023-09-11",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "title": "Sed Do Eiusmod Tempor Incididunt",
+    "title": "The Latest Trends in Web Development: What's Hot in 2023",
     "author_img": "https://i.ibb.co/Qr0xKNb/girl1.jpg",
     "author_name": "David Johnson",
     "posted_date": "2023-09-10",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "title": "Ut Labore Et Dolore Magna Aliqua",
+    "title": "Optimizing Website Performance: Strategies for Faster Load Times",
     "author_img": "https://i.ibb.co/YQXhGkZ/girl2.jpg",
     "author_name": "Emily Wilson",
     "posted_date": "2023-09-09",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "title": "Enim Ad Minim Veniam",
+    "title": "Exploring Creative Web Design: Inspiring Artistic Websites",
     "author_img": "https://i.ibb.co/ynGRHr2/profile.png",
     "author_name": "Michaela Brown",
     "posted_date": "2023-09-08",
